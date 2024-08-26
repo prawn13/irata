@@ -91,6 +91,7 @@ body > section {
 .embeds {
     margin: 10px;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
 }
 
