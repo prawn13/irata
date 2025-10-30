@@ -113,3 +113,7 @@ body > section {
     color:#006d81;
     padding: 6px;
 }
+
+li > a {
+    color: #5f5f5f;
+}
