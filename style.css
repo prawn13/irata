@@ -16,7 +16,7 @@ input,select{vertical-align:middle}
 
 body,html {
 	background-color: #000000;
-    background-image: url('images/logo.png');
+    /* background-image: url('images/logo.png'); */
     background-repeat: repeat;
     background-size:20%;
 }
